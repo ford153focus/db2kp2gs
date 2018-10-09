@@ -1,0 +1,20 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: focus
+ * Date: 06.10.18
+ * Time: 12:34
+ */
+
+class Config
+{
+    public const KEEPASS = [
+        'password' => ''
+    ];
+
+    public const DROPBOX = [
+        'clientId' => '',
+        'clientSecret' => '',
+        'accessToken' => ''
+    ];
+}

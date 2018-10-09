@@ -1,0 +1,9 @@
+/.idea
+/.vs*
+
+/cfg/Config.php
+/cfg/*.json
+/tmp/
+/vendor/
+/composer.lock
+/PHP_errors.log
